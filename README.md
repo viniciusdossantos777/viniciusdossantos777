@@ -1,4 +1,4 @@
-## Olá! Eu sou o Vinícius do santos 👨‍💻
+## Olá! Eu sou o Vinícius do santos 👨🏻‍💻
  **`Desenvolvedor Front-end`**
 
 - 🔭 hoje estou trabalhando com Front-end
@@ -7,7 +7,7 @@
   
 ##
   
-### 🤖 Linguagens e Tecnologias 
+### 🧑🏻‍💻 Linguagens e Tecnologias 
 
 <div style="display: inline_block">
  <img align="center" title="HTML" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
