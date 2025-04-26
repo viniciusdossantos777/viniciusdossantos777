@@ -37,8 +37,8 @@
 </div>
 
 <div>
-  <a href="https://x.com/Viniciu79535599" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/viniciuspolengo" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" target="_blank"></a>
   
   <a href="https://www.linkedin.com/in/vinicius-dos-santos-48230a31b/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"</a>
