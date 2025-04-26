@@ -1,33 +1,18 @@
-
 ## Olá! Eu sou o Vinícius do santos 👨‍💻
  **`Desenvolvedor Front-end`**
 
 - 🔭 hoje estou trabalhando com Front-end
 - 🌱 Estou Estudando Javascript. 
 - 😄 Pronouns: ele/dele
-
+  
+##
+  
 ### 🤖 Linguagens e Tecnologias 
 
-<div style="display=inline_block">
- 
-  <img align="center"
-       alt="HTML"
-       title="Html"
-       width="40"
-       heitgh="30" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />     
-  <img align="center"
-       alt="HTML"
-       title="Html"
-       width="40"
-       heitgh="30" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img   align="center"
-         alt="Javascript"
-         title="Javascript"
-         width="40"
-         heitgh="30"
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<div style="display: inline_block"><br>
+ <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
             
 
