@@ -8,7 +8,8 @@
 
   ### 📊 Estatísticas
 
-<p>
+<div>
+  <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -25,3 +26,5 @@
   />
 
 </p>
+</div>
+
