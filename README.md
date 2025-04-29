@@ -7,7 +7,7 @@
   
 ##
   
-### 🧑🏻‍💻 Linguagens e Tecnologias 
+### 💻 Linguagens e Tecnologias 
 
 <div style="display: inline_block">
  <img align="center" title="HTML" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -26,7 +26,7 @@
     alt="GitHub Stats" 
     height="180em" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=viniciusdossantos777&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+    src="https://github-readme-stats.vercel.app/api?username=viniciusdossantos777&show_icons=true&theme=tokyonight" />
 
 <img  
       alt="GitHub Stats" 
