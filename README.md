@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Vinícius do santos 👨🏻‍💻
- **`Desenvolvedor Front-end`**
+ **`Analista de Dados / Desenvolvedor Front-end`**
 
 - 🔭 hoje estou trabalhando com Análise de dados.
 - 📚 Estou Estudando Back-end.
