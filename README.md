@@ -2,8 +2,8 @@
  **`Desenvolvedor Front-end`**
 
 - 🔭 hoje estou trabalhando com Análise de dados.
-- 📚 Estou Estudano Backend.
-- 👩🏻‍💻 Já tenho conhecimento com Frontend. 
+- 📚 Estou Estudando Back-end.
+- 👩🏻‍💻 Já tenho conhecimento com Front-end. 
 - 😄 Pronouns: ele/dele.
   
 ##
